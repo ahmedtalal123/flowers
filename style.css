@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+#div1{
+    display: block;
+    border-style: solid;
+    float: left;
+    padding: 16px;
+    background-color: rgb(242,237,138);
+    }
+
+#div2{
+    display: block;
+    border-style: solid;
+    float: right;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(173, 247,247);
+}
+
+body{
+    background-color: rgb(202, 255, 176);
+}
+
+img{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+
+}
+
+#p1{
+    text-align: center;
+}
+
+
